@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKqEsIMLRJPiNEr5aDGY-4" value="2、需求分析/评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="KKqEsIMLRJPiNEr5aDGY-4" value="2、需求分析/评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKqEsIMLRJPiNEr5aDGY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKqEsIMLRJPiNEr5aDGY-6" target="KKqEsIMLRJPiNEr5aDGY-9">
