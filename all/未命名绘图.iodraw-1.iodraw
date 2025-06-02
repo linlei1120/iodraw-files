@@ -51,8 +51,8 @@
         <mxCell id="KKqEsIMLRJPiNEr5aDGY-9" value="4、前端需求开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKqEsIMLRJPiNEr5aDGY-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="128" width="50" height="30" as="geometry" />
+        <mxCell id="KKqEsIMLRJPiNEr5aDGY-17" value="需求驳回/需求调整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="128" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
