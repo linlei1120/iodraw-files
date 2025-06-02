@@ -19,8 +19,8 @@
         <mxCell id="KKqEsIMLRJPiNEr5aDGY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKqEsIMLRJPiNEr5aDGY-4" target="KKqEsIMLRJPiNEr5aDGY-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="150" />
-              <mxPoint x="220" y="150" />
+              <mxPoint x="420" y="160" />
+              <mxPoint x="220" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -50,6 +50,9 @@
         </mxCell>
         <mxCell id="KKqEsIMLRJPiNEr5aDGY-9" value="4、前端需求开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKqEsIMLRJPiNEr5aDGY-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="128" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
